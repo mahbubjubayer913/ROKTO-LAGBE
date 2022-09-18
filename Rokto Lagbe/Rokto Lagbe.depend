@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1654443307 source:c:\users\jubayer\desktop\folders\e books\ict 2-1\algo\rokto lagbe\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<process.h>
+	<stdlib.h>
+	<dos.h>
+
